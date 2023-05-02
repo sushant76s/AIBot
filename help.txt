@@ -1,0 +1,20 @@
+I think the following stuff can help you!
+
+Commands List:
+/start -> To start
+/help -> To get the help
+/train -> feed the intents for the training of ai model
+/delete_my_data -> Delete user informaton from  the bot
+Advance Features
+1. For language translation:
+Enter the keyword 'tl' or 'Tl' or 'tL' or 'TL' and then after type your text. And if you want to get the result in a specific language then you have to specify the language after the keyword.
+Example: Tl korean how are you?
+If you are not specifying the language then by default it will translate the text from direct language to hindi.
+2. For the image operations:
+Just send the image and specify what to do with the image in the captions.
+Example:
+i). extract the text
+ii). Edit the image
+(P.S. This function is little bit slow but works absolutely fine, I'm working on it)
+3. AI Chatting:\nYou can simply chat with the bot.
+Developed by: Sushant Verma (@susverma)
